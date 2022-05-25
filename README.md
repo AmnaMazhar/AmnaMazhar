@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I'm a Front-end Developer.**
+
+### BIO
+-- 🔭 I’m currently working on HTML, CSS and PHP
+-- 🌱 I’m currently learning JavaScript
+--  💬 Ask me about HTML, CSS and PHP
+- 📫 How to reach me: [title](https://www.example.com) [title](https://www.example.com)
