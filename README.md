@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**I'm a Front-end Developer.**
+
+### BIO
+- 🔭 I’m currently working on HTML, CSS and PHP
+- 🌱 I’m currently learning JavaScript
+-  💬 Ask me about HTML, CSS and PHP
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amna-mazhar-3602a71a1/)
+
+
 <!--
 **AmnaMazhar/AmnaMazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**I'm a Front-end Developer.**
-
-### BIO
-- 🔭 I’m currently working on HTML, CSS and PHP
-- 🌱 I’m currently learning JavaScript
--  💬 Ask me about HTML, CSS and PHP
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amna-mazhar-3602a71a1/)
