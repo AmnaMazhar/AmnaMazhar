@@ -38,7 +38,7 @@
 ---
 ### :woman_technologist: About Me :
 
-- I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Web Developer.
 - :seedling: I love learning new techs and using new tools.
 - :zap: I'm currently learning JavaScript.
 - :speech_balloon: Ask me about PHP, JavaScript, Python.
