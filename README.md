@@ -1,29 +1,38 @@
 <!-- GIF at starting -->
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%"/>
 </div
+-->
+  
+  <div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-  
-  
+<div align="center" width="50">
+
+<img src="https://github.com/AmnaMazhar/AmnaMazhar/blob/main/giphy.gif" alt="Welcome!" width="50%"/>
+
+</div>
+
 <!-- Hey there text -->
   
+<!--
 <div align="center">
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-
-  
-  
+  -->
 <!-- Image -->
 
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-  
+  -->
   
 <!-- About Me section -->
 ---
@@ -119,15 +128,4 @@
 
 <!-- Do not remove this
 
-
-
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
 -->
