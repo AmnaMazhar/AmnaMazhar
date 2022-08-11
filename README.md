@@ -4,7 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%"/>
 </div
 
+  
+  
 <!-- Hey there text -->
+  
 <div align="center">
 <h1 align="center">
   Hey there
@@ -12,16 +15,18 @@
 </h1>
 </div>
 
+  
+  
 <!-- Image -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+  
+  
 <!-- About Me section -->
-
 ---
-
 ### :woman_technologist: About Me :
 
 - I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -29,6 +34,9 @@
 - :zap: I'm currently learning JavaScript.
 - :speech_balloon: Ask me about PHP, JavaScript, Python.
 
+  
+  
+  
 <!-- Languages and Tools -->
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,6 +54,8 @@
 </div>
 
 
+  
+  
 <!-- Connect with me -->
 ---
 ### :inbox_tray: Connect with me :
@@ -57,6 +67,8 @@
 <a href="https://www.instagram.com/amnamemon7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amnamemon7" height="30" width="40" /></a>
 </div>
 
+  
+  
 <!-- Stats -->
 ---
 ### :fire: My Stats:
@@ -77,13 +89,14 @@
 
 </table>
 
-<br>
+
 
 <!--  Profile Visitor Count -->
 ---
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+    
     
 <!-- retro visitor counter -->  
 <p align="center" >   
