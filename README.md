@@ -85,8 +85,8 @@
 <div>
 <a href="https://www.linkedin.com/in/php-developer-3602a71a1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="php-developer-3602a71a1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19284287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19284287" height="30" width="40" /></a>
-<a href="https://www.facebook.com/amna.memon.14019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amna.memon.14019" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amnamemon7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amnamemon7" height="30" width="40" /></a>
+<!-- <a href="https://www.facebook.com/amna.memon.14019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amna.memon.14019" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amnamemon7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amnamemon7" height="30" width="40" /></a> -->
 </div>
 
   
