@@ -41,7 +41,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Web Developer.
 - :seedling: I love learning new techs and using new tools.
 - :zap: I'm currently learning JavaScript.
-- :speech_balloon: Ask me about PHP, JavaScript, Python.
+- :speech_balloon: Ask me about PHP, JavaScript, Ajax.
 
   
   
