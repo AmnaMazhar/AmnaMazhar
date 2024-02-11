@@ -92,7 +92,7 @@
   
   
 <!-- Stats -->
----
+<!--  ---
 ### :fire: My Stats:
 
 <table border="0" align="center">
@@ -109,11 +109,12 @@
   </td>
 </tr>
 
-</table>
+</table> -->
 
 
 
 <!--  Profile Visitor Count -->
+<!-- 
 ---
 <div>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -121,9 +122,10 @@
     
     
 <!-- retro visitor counter -->  
+<!-- 
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/AmnaMazhar/count.svg" />  
-</p>
+</p> -->
 
 
 <!-- Do not remove this
